@@ -24,12 +24,15 @@ Game Logic Implementation (Minesweeper mechanics)
 HOMESCREEN
 
 ![image](https://github.com/user-attachments/assets/85a544aa-0037-473f-b13f-92027b69bb5b)
+
 GAME SCREEN
 
 ![image](https://github.com/user-attachments/assets/5ed916ed-232b-4b0b-ace3-83fcb74f3acb)
+
 GAME OVER SCREEN
 
 ![image](https://github.com/user-attachments/assets/f67aec0e-8413-43eb-b848-0e6b278e06e3)
+
 WINNING SCREEN
 
 ![image](https://github.com/user-attachments/assets/ead20592-1664-4496-ad94-b0a84b6f6c41)
